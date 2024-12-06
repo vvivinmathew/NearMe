@@ -31,7 +31,7 @@ Execute the programs and publish them.
 <title>My City</title>
 </head>
 <body>
-    <h1 aligen="center"
+    <h1 align="center"
 <font align="center" color="red"><b>Kanyakumari</b></font>
 </h1>
 <h2 align="center">
@@ -138,14 +138,19 @@ agasteeswaram.html
             Agasteeswaram is a historic town in Kanyakumari district, Tamil Nadu, named after the sage Agastya, a revered figure in Indian mythology. It is home to the ancient Agasteeswarar Temple, dedicated to Lord Shiva, reflecting rich cultural and spiritual heritage. Surrounded by lush greenery, it offers a serene ambiance steeped in tradition. The town is also known for its role in preserving Tamil customs and ancient architecture.
         </p></font>
     </body>
+
 </html>
+
+```
 ## OUTPUT
 
+![alt text](<Screenshot 2024-12-06 090249.png>)
+![alt text](<Screenshot 2024-12-06 090306.png>)
 
+![alt text](<Screenshot 2024-12-06 090322.png>)
+![alt text](<Screenshot 2024-12-06 090337.png>)
 
-
-
-
-
+![alt text](<Screenshot 2024-12-06 090357.png>)
+![alt text](<Screenshot 2024-12-06 090415.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
